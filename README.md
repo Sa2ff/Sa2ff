@@ -27,11 +27,7 @@
   </p>
 </div>
 
----
-
-<!-- ... (Your top sections: Avatar, Name, Contact) ... -->
-
----
+----
 
 ## 👀 I’m Interested In
 
