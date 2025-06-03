@@ -60,8 +60,7 @@
     *   <img src="https://www.svgrepo.com/show/395794/security-protection-shield.svg" alt="security" width="30" height="30"/> Security Best Practices
 *   🤖 **Advanced AI/ML Concepts:**
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Implementing Authentication & Anomaly Detection in AI
-*   ☁️ **Exploring Cloud Technologies:**
-    *   <!-- Add specific cloud services you're learning here, e.g., AWS Lambda, Azure Functions -->
+  
 *   🐍 And continuously exploring advanced concepts in **Python** and other emerging technologies!
 
 ---
