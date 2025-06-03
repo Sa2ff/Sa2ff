@@ -38,7 +38,6 @@
 *   🚀 Building scalable **Web Applications**
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> HTML5
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> CSS3
-    *   <!-- React was here, now removed -->
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> MySQL (and tools like SQLyog)
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> MongoDB
 *   🤖 Exploring **Artificial Intelligence** & **Machine Learning**
@@ -61,9 +60,6 @@
     *   <img src="https://www.svgrepo.com/show/395794/security-protection-shield.svg" alt="security" width="30" height="30"/> Security Best Practices
 *   🤖 **Advanced AI/ML Concepts:**
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Implementing Authentication & Anomaly Detection in AI
-*   <!-- TypeScript was here, now removed -->
-*   <!-- DevOps & Cloud Technologies (Docker/Kubernetes) were here, now removed. -->
-*   <!-- If you want to keep the category for other cloud tech: -->
 *   ☁️ **Exploring Cloud Technologies:**
     *   <!-- Add specific cloud services you're learning here, e.g., AWS Lambda, Azure Functions -->
 *   🐍 And continuously exploring advanced concepts in **Python** and other emerging technologies!
