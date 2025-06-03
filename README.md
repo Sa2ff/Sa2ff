@@ -2,7 +2,7 @@
 
 <!-- GREETING -->
 <h1 align="center">Hi 👋, I'm Maya Kadayat(Sa2ff)</h1>
-<h3 align="center">A passionate [ Java Developer,Python and AI] from [kathamndu]</h3>
+<h3 align="center">A passionate Java Developer,Python and AI from kathamndu</h3>
 
 <!-- Optional: A cool GIF or banner image -->
 <!-- <p align="center"> <img src=""C:\Users\DELL\Downloads\avtar7.svg"" alt="coding gif" width="500"/> </p> -->
@@ -13,19 +13,19 @@
 ## 👀 I’m Interested In
 
 *   🚀 Building scalable **Web Applications**
+    *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> HTML5
+    *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> CSS3
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> React
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> Node.js
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> MongoDB
 *   🤖 Exploring **Artificial Intelligence** & **Machine Learning**
+    *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> Python
     *   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="30" height="30"/> Scikit-learn
     *   <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="tensorflow" width="30" height="30"/> TensorFlow
+*   ☕ **Java Development** & Enterprise Solutions
+    *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> Java
 *   ☁️ **Cloud Computing** (especially AWS)
     *   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> AWS
-
-<!-- Replace with your actual interests and find relevant logos! -->
-<!-- Use bullet points for readability. -->
-
----
 
 <!-- CURRENTLY LEARNING -->
 ## 🌱 I’m Currently Learning
